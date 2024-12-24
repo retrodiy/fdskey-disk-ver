@@ -92,7 +92,7 @@
 
 ## 6. 技术支持
 如果您在安装或使用过程中遇到问题，请通过以下方式联系我们：  
-- 提 `issue`
+- 欢迎提 [`issue`](https://github.com/retrodiy/fdskey-disk-ver/issues)。
 
 ---
 
