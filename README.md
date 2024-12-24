@@ -1,4 +1,5 @@
-# FDSKey磁碟机套件安装说明
+# FDSKey 磁碟机套件安装说明
+（查看[繁体中文版](README_CHT.md)）
 
 ## 1. 产品简介
 任天堂磁碟机仿真器FDSKey磁碟机面板版安装说明。
@@ -76,6 +77,7 @@
 11. 最后：
    - 安装外壳螺丝固定。
    - 帖上 `Diskun 贴纸`。
+   ![FDSKey磁碟机版](./images/fdskey_disk_ver.jpg)
 
 ---
 
